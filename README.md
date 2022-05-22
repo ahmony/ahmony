@@ -1,0 +1,3 @@
+- 👋 Hi. My name is Ajdin Ahmic
+- 👀 I’m currently learning and working with C++, HTML/CSS/SASS, Bootstrap, Javascript, Typescript and React
+- 📫 Contact: ajdinnahmic@gmail.com
