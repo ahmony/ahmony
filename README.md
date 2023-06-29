@@ -1,3 +1,3 @@
 - 👋 Hi. My name is Ajdin Ahmic
-- 👀 I’m currently learning and working with C++, HTML/CSS/SASS, Bootstrap, Javascript, Typescript and React
+- 👀 I’m currently learning and working with C++, HTML/CSS/SASS, Javascript, Typescript, React, C#, ASP .NET Core, Entity Framework and MS SQL.
 - 📫 Contact: ajdinnahmic@gmail.com
